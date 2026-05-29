@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Infosys**
 
-- 💬 Ask me about **Terraform, Microsoft Azure Cloud, CI/CD Pipelines, and Integrating security**
+- 💬 Ask me about **Terraform, Microsoft Azure Cloud, CI/CD Pipelines, and Integrating security tools**
 
 - 📫 How to reach me **siddhantramteke2000@gmail.com**
 
